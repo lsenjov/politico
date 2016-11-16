@@ -2,7 +2,7 @@ Welcome to the country of [INSERT NAME HERE].
 
 As members of the revolutionary committee, you will guide the nation to a prosperous future, and not at all ruin the nation with contradictory amendments in your own selfish interests. To do this you will propose amendments to the constitution and other documents.
 
-This committee will steer the new country of [INSERT NAME HERE]. Here's a brief overview of the country's state:
+Very recently, the revolution succeeded and you were catapulted into power. Unfortunately, most of the documents were destroyed during the chaos. Nevertheless, this committee will steer the new country of [INSERT NAME HERE].
 
 ## Rules
 - Failing to adhere to the laws will invoke the full punishment of the law...when it's instituted, anyway.
