@@ -4,7 +4,12 @@ As members of the revolutionary committee, you will guide the nation to a prospe
 
 This committee will steer the new country of [INSERT NAME HERE]. Here's a brief overview of the country's state:
 
-Regions:
+## Rules
+- Failing to adhere to the laws will invoke the full punishment of the law...when it's instituted, anyway.
+- My arbitration on an issue is final. If something doesn't go the way you thought it would, there's a reason for it.
+- While public conversation and debate should go on issues here on github, there is no rules for or against external communication.
+
+##Regions:
 ### Bambach
 - Pop: 1,162,770
 - Main Religion: Ophirianity
