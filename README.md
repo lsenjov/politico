@@ -1,37 +1,49 @@
-# 0. Preamble
+Welcome to the country of [INSERT NAME HERE].
 
-## 0.1 Naming Convention
+As members of the revolutionary committee, you will guide the nation to a prosperous future, and not at all ruin the nation with contradictory amendments in your own selfish interests. To do this you will propose amendments to the constitution and other documents.
 
-0.1.a Section headers will be labeled hierarchically with numbers.
+This committee will steer the new country of [INSERT NAME HERE]. Here's a brief overview of the country's state:
 
-0.1.b All text will be under letter headers, starting from a to z, then aa, ab etc.
+Regions:
+### Bambach
+- Pop: 1,162,770
+- Main Religion: Ophirianity
+- Main Export: Caj
+- Main Import: Maki
+- GDP per Capita: 781 Marquers/year
 
-0.1.b.a Amendments and other items directly relevant toa  point will be under additional letter headers.
+### Gawahir
+- Pop: 1,890,190
+- Main Religion: Ophirianity
+- Main Export: Maki
+- Main Import: Uthyr
+- GDP per Capita: 593 Marquers/year
 
-# 1. Constitution of the Nation of [INSERT NAME HERE]
+### Haluk
+- Pop: 1,816,920
+- Main Religion: Traversinianity
+- Main Export: Caj
+- Main Import: Uthyr
+- GDP per Capita: 693 Marquers/year
 
-## 1.1 Government of [INSERT NAME HERE]
+### Heiner
+- Pop: 1,701,480
+- Main Religion: Traversinianity
+- Main Export: Uthyr
+- Main Import: Maki
+- GDP per Capita: 740 Marquers/year
 
-### 1.1.1 Ruling Body
+### Pons
+- Pop: 1,410,830
+- Main Religion: Traversinianity
+- Main Export: Maki
+- Main Import: Caj
+- GDP per Capita: 849 Marquers/year
 
-1.1.1.a The ruling party is an elected body, totalling [INSERT NUMBER HERE] members.
+### Raanan
+- Pop: 1,791,010
+- Main Religion: Ophirianity
+- Main Export: Uthyr
+- Main Import: Caj
+- GDP per Capita: 755 Marquers/year
 
-1.1.1.b Each member is entitled to a single vote.
-
-1.1.1.c The ruling party will hold session every week, on a Sunday at 5pm. Members are not required to attend.
-
-1.1.1.d Members may vote on pull requests before session, and may change votes until the request is brought before the ruling body in session.
-
-#### 1.1.2 Constitution Amendments
-
-1.1.2.a The constitution and all other documents may be edited or created with a majority vote.
-
-1.1.2.b Any member of the ruling party may propose a pull request for the change or creation of any document.
-
-1.1.2.c A pull request will remain unresolved until the next session of the ruling party, at least five days from the time of proposal.
-
-1.1.2.c.a If a pull request achieves affirmative votes from more than half the ruling body as a whole, it will immediately be ratified.
-
-1.1.2.c.a If a pull request achieves negative votes from more than half the ruling body as a whole, it will immediately be closed with no effect.
-
-1.1.2.d A pull request will be ratified if a majority of votes (greater than half) on the pull request are in the affirmative.
