@@ -28,7 +28,7 @@
 
 1.1.2.b Any member of the ruling party may propose a pull request for the change or creation of any document.
 
-1.1.2.b.b Only the financial minister may create pull requests affecting the Currency Act of 2016.
+1.1.2.b.a Only the financial minister may create pull requests affecting the Currency Act of 2016.
 
 1.1.2.c A pull request will remain unresolved until the next session of the ruling party, at least five days from the time of proposal.
 
