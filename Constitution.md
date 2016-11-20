@@ -40,5 +40,5 @@
 
 ## 1.2 Religion
 
-1.2.1 In the spirit of promoting individual freedom of belief, diversity, and globalism, the country of [INSERT NAME HERE] shall have no official religion and its capital state shall have no official religion. 
+1.2.x In the spirit of promoting individual freedom of belief, diversity, and globalism, the country of [INSERT NAME HERE] shall have no official religion.
 
