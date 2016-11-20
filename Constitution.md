@@ -37,3 +37,5 @@
 1.1.2.c.b If a pull request achieves negative votes from more than half the ruling body as a whole, it will immediately be closed with no effect.
 
 1.1.2.d A pull request will be ratified if a majority of votes (greater than half) on the pull request are in the affirmative.
+
+1.1.2.e A pull request must be focused, i.e. every amendment must be directly related to the core proposition of the pull request.
