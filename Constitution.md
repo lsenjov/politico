@@ -34,4 +34,6 @@
 
 1.1.2.c.a If a pull request has affirmative votes from more than half the ruling body as a whole at a session of the ruling party, it will immediately be ratified. A :+1: reaction to the pull request is considered an affirmative vote.
 
-1.1.2.c.b If a pull request has negative votes from more than half the ruling body as a whole at a session of the ruling party, it will immediately be closed with no effect. A :-1: reaction to the pull request is considered an affirmative vote.
+1.1.2.c.b If a pull request has negative votes from more than half the ruling body as a whole at a session of the ruling party, it will immediately be closed with no effect. A :-1: reaction to the pull request is considered a negative vote.
+
+1.1.2.c.c If at least 2/3 of the ruling body as a whole has voted either in favour of, or against, a pull request, at any stage, it will immediately be resolved. In the case of votes in favour, the proposition will be ratified. In the case of votes against, the proposition will be discarded.
