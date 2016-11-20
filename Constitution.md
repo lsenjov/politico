@@ -26,14 +26,14 @@
 
 1.1.2.a The constitution and all other documents may be edited or created with a majority vote.
 
-1.1.2.b Any member of the ruling party may propose a pull request for the change or creation of any document.
-
-1.1.2.b.a Only the financial minister may create pull requests affecting the Currency Act of 2016.
+1.1.2.b Any member of the ruling party may propose a pull request for the change or creation of any document, unless there is an exception under 1.1.2.b
 
 1.1.2.c A pull request will remain unresolved until the next session of the ruling party, at least five days from the time of proposal.
 
 1.1.2.c.a If a pull request achieves affirmative votes from more than half the ruling body as a whole, it will immediately be ratified.
 
 1.1.2.c.b If a pull request achieves negative votes from more than half the ruling body as a whole, it will immediately be closed with no effect.
+
+1.1.2.c.c Any pull request to the Currency Act 2016 must have a vote in favour from the Financial Minister in order to be ratified.
 
 1.1.2.d A pull request will be ratified if a majority of votes (greater than half) on the pull request are in the affirmative.
