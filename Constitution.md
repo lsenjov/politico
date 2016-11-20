@@ -37,3 +37,7 @@
 1.1.2.c.b If a pull request achieves negative votes from more than half the ruling body as a whole, it will immediately be closed with no effect.
 
 1.1.2.d A pull request will be ratified if a majority of votes (greater than half) on the pull request are in the affirmative.
+
+1.1.2.e For a pull request to be accepted it must be supported by a logical argument.
+
+1.1.2.f A previously accepted pull request may be reverted if it is discovered that it did not fulfill the rules at the time of its merge.
