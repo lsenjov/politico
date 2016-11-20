@@ -22,6 +22,8 @@
 
 1.1.1.d Members may vote on pull requests before session, and may change votes until the request is brought before the ruling body in session.
 
+1.1.1.e The first minister of a department of government is required to identify role the department addresses in the country, as well as providing a basis of laws relating to that department
+
 #### 1.1.2 Constitution Amendments
 
 1.1.2.a The constitution and all other documents may be edited or created with a majority vote.
