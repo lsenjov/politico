@@ -37,3 +37,8 @@
 1.1.2.c.b If a pull request achieves negative votes from more than half the ruling body as a whole, it will immediately be closed with no effect.
 
 1.1.2.d A pull request will be ratified if a majority of votes (greater than half) on the pull request are in the affirmative.
+
+## 1.2 Religion
+
+1.2.1 In the spirit of promoting individual freedom of belief, diversity, and globalism, the country of [INSERT NAME HERE] shall have no official religion and its capital state shall have no official religion. 
+
