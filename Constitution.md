@@ -37,3 +37,12 @@
 1.1.2.c.b If a pull request achieves negative votes from more than half the ruling body as a whole, it will immediately be closed with no effect.
 
 1.1.2.d A pull request will be ratified if a majority of votes (greater than half) on the pull request are in the affirmative.
+
+#### 1.1.3 Primary Status Rulings
+
+##### 1.1.3.a Capital City
+
+1.1.3.a.a The capital city of [INSERT NAME HERE] will be Mondovi in the region of Haluk.
+
+1.1.3.a.b The capital city will be the location of official government locations, e.g. the supreme court, and parliament
+
