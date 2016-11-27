@@ -32,9 +32,11 @@
 
 1.1.2.c A pull request will remain unresolved until the next session of the ruling party, at least five days from the time of proposal.
 
-1.1.2.c.a If a pull request achieves affirmative votes from more than half the ruling body as a whole, it will immediately be ratified.
+1.1.2.c.a If a pull request has affirmative votes from more than half the ruling body as a whole at a session of the ruling party, it will immediately be ratified. A :+1: reaction to the pull request is considered an affirmative vote.
 
-1.1.2.c.b If a pull request achieves negative votes from more than half the ruling body as a whole, it will immediately be closed with no effect.
+1.1.2.c.b If a pull request has negative votes from more than half the ruling body as a whole at a session of the ruling party, it will immediately be closed with no effect. A :-1: reaction to the pull request is considered a negative vote.
+
+1.1.2.c.c If at least 2/3 of the ruling body as a whole has voted either in favour of, or against, a pull request, at any stage, it will immediately be resolved. In the case of votes in favour, the proposition will be ratified. In the case of votes against, the proposition will be discarded.
 
 1.1.2.d A pull request will be ratified if a majority of votes (greater than half) on the pull request are in the affirmative.
 
