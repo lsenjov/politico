@@ -47,3 +47,15 @@
 ## 1.2 Religion
 
 1.2.1 In the spirit of promoting individual freedom of belief, diversity, and globalism, the country of [INSERT NAME HERE] shall have no official religion.
+
+#### 1.3 Conflict management
+
+1.3.1 Barring exceptions detailed in 1.x.3, if two propositions A and B conflict, an issue will be created and directed to in a comment posted on each conflicting proposition.  The propositions A and B will be quoted verbatim in the issue, and it will be made clear that positive votes count towards A while negative votes count towards B. 
+
+1.3.2 On the next legislation cycle, the proposition that achieves a majority vote issue shall be ratified. In case of a tie, neither A or B shall be ratified, and the issue will remain valid through the next legislation cycle, and through successive legislation cycles until a majority vote is achieved.  
+
+1.3.3 Section 1.x.1 is invalid if there are less than or equal to 3 days prior to the next legislation cycle; section 1.x.2, however, will still hold. Instead, negative votes from A shall count as positive votes towards B and negative votes from B shall count as positive votes towards A. If a citizen casts a negative vote for A and a positive vote B, it is to count as a single positive vote for B. 
+
+1.3.4 In the case that there are more than two conflicting issue, two issues will be selected and have the legislative procedure outlined in sections 1.x.1-1.x.3 applied, with the remaining issues put in a queue.  Thereafter, of the two ratified issues selected, the ratified issue will be selected alongside the next proposition in the queue, and have the legislative procedure outlined in sections 1.x.1-1.x.3 applied.  
+
+1.3.5 The two issues initially selected in 1.x.4 and the ordering that the propositions are placed in a queue is left to the discretion of [LSENJOVs TITLE].
