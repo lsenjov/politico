@@ -12,7 +12,7 @@ The purpose of this act is to define the duration of the Governing Body's durati
 - `The Act` or `This Act` refers to the `Democratic Elections Act of 2016` and its amendments.
 - `Offending Clause` refers to a statement, assumption or directive given by The Act which contradicts in part, or in full another clause found in an official law of this nation.
 - `The Minister` refers to the Minister for Democracy and Individual Equity
-- `A cycle` refers to a single week which begins on a sunday and ends on a saturday UTC+00.
+- `A cycle` refers to a single week which begins on 00:00 sunday and ends at 23:59 saturday UTC+00.
 - `A Term` refers to 5 cycles.
 
 ## 3. Democratic Elections Act of 2016
