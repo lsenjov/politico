@@ -66,6 +66,7 @@ The purpose of this act is to define the duration of the Governing Body's durati
 
 #### 3. Party Solvency
 This clause refers to Parties which are unable to fulfil their duties and responsibilities as layed out in the Act as determined by the Minister.
+
 1. Should a party become insolvent it must:
     1. Notify its members of all procedures relating to becoming solvent
     2. Be forthright and honest in becoming solvent
