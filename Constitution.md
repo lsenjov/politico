@@ -14,7 +14,7 @@
 
 ### 1.1.1 Ruling Body
 
-1.1.1.a The ruling party is an elected body, totalling [INSERT NUMBER HERE] members.
+1.1.1.a The ruling party is an elected body, totalling [INSERT NUMBER HERE] members
 
 1.1.1.b Each member is entitled to a single vote.
 
@@ -22,7 +22,9 @@
 
 1.1.1.d Members may vote on pull requests before session, and may change votes until the request is brought before the ruling body in session.
 
-1.1.1.e The first minister of a department of government is required to identify role the department addresses in the country, as well as providing a basis of laws relating to that department
+1.1.1.e The first minister of a department of government is required to identify roles the department addresses in the country, as well as providing a basis of laws relating to that department.
+
+1.1.1.f The duration of governing party positions, election timing and election procedures must be conducted according to the Democratic Elections Act 2016
 
 #### 1.1.2 Constitution Amendments
 
