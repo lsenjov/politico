@@ -44,6 +44,14 @@
 
 1.1.2.e A pull request must be focused, i.e. every amendment must be directly related to the core proposition of the pull request.
 
+#### 1.1.3 Primary Status Rulings
+
+##### 1.1.3.a Capital City
+
+1.1.3.a.a The capital city of [INSERT NAME HERE] will be Mondovi in the region of Haluk.
+
+1.1.3.a.b The capital city will be the location of official government locations, e.g. the supreme court, and parliament
+
 ## 1.2 Religion
 
 1.2.1 In the spirit of promoting individual freedom of belief, diversity, and globalism, the country of [INSERT NAME HERE] shall have no official religion.
