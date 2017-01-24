@@ -2,9 +2,9 @@
 
 # 1. Monetary Units
 
-1.1 The monetary unit of [INSERT NAME HERE] is the Marquer.
+1.1 The monetary unit of Gebovia is the Marquer.
 
-1.2 The denominations of money in the currency of [INSERT NAME HERE] are the Marquer, Luba, and Eider.
+1.2 The denominations of money in the currency of Gebovia are the Marquer, Luba, and Eider.
 
 1.3 A single Luba is 1/8th of a Marquer.
 
